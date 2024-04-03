@@ -1,0 +1,59 @@
+#titulo {
+    text-align: center;
+    color: red;
+    background-color: white;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(38, 5, 5);
+}
+
+label, div {
+    font-size: 20px;
+}
+
+#plazo, #capital {
+    width: 275px;
+}
+
+.edad {
+    display: inline-block;
+}
+
+fieldset {
+    border: solid 3px black;
+    border-radius: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+    
+}
+
+.pSimulacion, .pOpciones {
+    font-weight: bold;
+}
+
+
+.bienvenidos, .calculos, .opcInv {
+    color: white;
+    font-size: 18px;
+    background-color: blue;
+    width: 400px;
+}
+
+#bienvenida {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.error {
+    color: white;
+    font-size: 18px;
+    background-color: red;
+    width: 400px;
+}
